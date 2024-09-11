@@ -1,0 +1,53 @@
+ticker,company,GICS Sector (GICS-1),GICS Sub-Industry (GICS-4)
+LNT,Alliant Energy,Utilities,Electric Utilities
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services
+AEE,Ameren,Utilities,Multi-Utilities
+AEP,American Electric Power,Utilities,Electric Utilities
+AME,Ametek,Industrials,Electrical Components & Equipment
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production
+ATO,Atmos Energy,Utilities,Gas Utilities
+BAC,Bank of America,Financials,Diversified Banks
+CB,Chubb Limited,Financials,Property & Casualty Insurance
+CMS,CMS Energy,Utilities,Multi-Utilities
+CMA,Comerica,Financials,Diversified Banks
+ED,Consolidated Edison,Utilities,Electric Utilities
+CCI,Crown Castle,Real Estate,Telecom Tower REITs
+DHI,D.R. Horton,Consumer Discretionary,Homebuilding
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production
+DTE,DTE Energy,Utilities,Multi-Utilities
+DUK,Duke Energy,Utilities,Electric Utilities
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment
+ETR,Entergy,Utilities,Electric Utilities
+EVRG,Evergy,Utilities,Electric Utilities
+EXC,Exelon,Utilities,Multi-Utilities
+XOM,ExxonMobil,Energy,Integrated Oil & Gas
+FITB,Fifth Third Bank,Financials,Regional Banks
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers
+FOXA,Fox Corporation (Class A),Communication Services,Movies & Entertainment
+FOX,Fox Corporation (Class B),Communication Services,Movies & Entertainment
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers
+HIG,Hartford (The),Financials,Property & Casualty Insurance
+HES,Hess Corporation,Energy,Integrated Oil & Gas
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components
+KEY,KeyCorp,Financials,Regional Banks
+LEN,Lennar,Consumer Discretionary,Homebuilding
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production
+MA,Mastercard,Financials,Transaction & Payment Processing Services
+NI,NiSource,Utilities,Multi-Utilities
+NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components
+PNC,PNC Financial Services,Financials,Regional Banks
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs
+SWKS,Skyworks Solutions,Information Technology,Semiconductors
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment
+TDG,TransDigm Group,Industrials,Aerospace & Defense
+TFC,Truist,Financials,Regional Banks
+USB,U.S. Bank,Financials,Diversified Banks
+V,Visa Inc.,Financials,Transaction & Payment Processing Services
+WEC,WEC Energy Group,Utilities,Electric Utilities
+XEL,Xcel Energy,Utilities,Multi-Utilities
+ZION,Zions Bancorporation,Financials,Regional Banks
